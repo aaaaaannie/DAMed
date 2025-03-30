@@ -28,7 +28,7 @@ python train-VREx.py                    ## Train the VREx model
 python train-VREx+fairness.py           ## Train the VREx model + our proposed fairness loss
 ```
 
-## multiple seeds
+## More seeds
 
 Using the following command for training or testing with multiple random seeds. 
 ```bash
